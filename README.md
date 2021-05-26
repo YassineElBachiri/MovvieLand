@@ -1,2 +1,2 @@
-# MovvieLand
+# MovieLand
 Website Template for Movies
